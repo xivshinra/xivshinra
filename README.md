@@ -1,6 +1,6 @@
 # Hi there, I'm Shinra ! 👋
 
-### My weapons:
+### My favorites :
 
 | Node JS | Next JS | Tailwind | Python | Solidity |
 |---------|---------|----------|--------|----------|
